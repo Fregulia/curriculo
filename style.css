@@ -1,0 +1,153 @@
+* {
+    margin: 0px auto;
+    box-sizing: border-box;
+}
+body {
+    background: linear-gradient(to right, transparent 0%, rgb(78, 4, 4) 30%, rgb(78, 4, 4)70%, transparent 100%);
+}
+.pai {
+    width: 70%;
+}
+
+.topo{
+    border-top: solid 1px;
+    border-left: solid 1px;
+    border-right: solid 1px;
+    border-color: black;
+    border-radius: 20px 20px 0 0;
+    height: 120px;
+    background-color:red;
+    margin-top: 20px;
+    padding-top: 15px;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.logos {
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+}
+.avatar {
+    border-radius: 50%;
+    width: 80%;
+    height: 80%;
+}
+.perfil {
+    border-left: solid 1px;
+    border-color: black;
+    background-color: white;
+    text-align: right;
+    padding-top: 30px;
+    height: 270px;
+    width: 70%;
+    float: left;
+}
+.epigrafe{
+    padding-left: 30px;
+}
+.foto{
+    border-right: solid 1px;
+    border-color: black;
+    background-color: white;
+    text-align: center;
+    width: 30%;
+    height: 270px;
+    float: right;
+}
+.experiencia {
+    text-align: center;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    float: right;
+    border: solid 1px;
+    width: 70%;
+    height: 300px;
+}
+.escolaridade {
+    border-top: solid 1px;
+    border-left: solid 1px;
+    border-bottom: solid 1px;
+    padding-top: 30px;
+    float: left;
+    background-color: white;
+    width: 30%;
+    text-align: center;
+    height: 400px;
+}
+.competencias {
+    border-left: solid 1px;
+    border-right: solid 1px;
+    border-bottom: solid 1px;
+    padding-top: 30px;
+    text-align: center;
+    float: right;
+    background-color: white;
+    width: 70%;
+    height: 220px;
+}
+.conhecimento {
+    margin-bottom: 10%;
+    text-align: center;
+    padding-top: 30px;
+    border-left: solid 1px;
+    border-bottom: solid 1px;
+    border-color: black;
+    background-color: white;
+    width: 30%;
+    height: 410px;
+    float: left;
+    border-radius: 0 0 0 20px;
+}
+.pontos{
+    padding-left: 40%;
+}
+.pontos2{
+    padding-left: 43.5%;
+}
+.pontos3{
+    padding-left: 38%;
+}
+.pontos4{
+    padding-left: 35%;
+}
+.circulo{ 
+    text-align: center;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: rgb(255, 0, 0);
+    margin-right: 5px;
+    float: left
+    }
+.objetivo_titulo{
+    border-bottom: solid 1px;
+    border-right: solid 1px;
+    border-left: solid 1px;
+    border-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    float: right;
+    width: 70%;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+}
+.objetivo{
+    font-size: 20px;
+    text-align: center;
+    border-bottom: solid 1px;
+    border-right: solid 1px;
+    border-left: solid 1px;
+    border-color: black;
+    padding-top: 35px;
+    padding-right: 20px;
+    padding-left: 20px;
+    float: right;
+    background-color: white;
+    width: 70%;
+    height: 240px;
+    border-radius: 0 0 20px 0;
+}
